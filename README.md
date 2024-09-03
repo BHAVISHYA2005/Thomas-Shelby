@@ -5,3 +5,7 @@
 -> SSH 
 -> Cloning 
 -> Commits & merge requests 
+-> main & master branches 
+-> Setting up SSH
+-> Git basic commands 
+-> Collaborators access
