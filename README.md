@@ -1,0 +1,7 @@
+-> For understanding 
+-> Git workflows 
+-> Braching 
+-> Remote servers
+-> SSH 
+-> Cloning 
+-> Commits & merge requests 
